@@ -1,0 +1,196 @@
+Ori : 
+Scr : 
+You Won by 1 commands
+Empty Hand
+Ori : 
+Scr : 
+You Won by 1 commands
+Empty Hand
+Ori : 
+Scr : 
+You Won by 1 commands
+Left End Already
+Ori : 
+Scr : 
+You Won by 1 commands
+Right End Already
+Ori : 
+Scr : 
+You Won by 1 commands
+Cannot Cut
+Ori : 
+Scr : 
+You Won by 1 commands
+Ori : 
+Scr : 
+You Won by 1 commands
+Ori : [a] 
+Scr : [a] 
+You Won by 1 commands
+Ori : [a] 
+Scr : [a] 
+You Won by 1 commands
+Empty Hand
+Ori : [a] 
+Scr : [a] 
+You Won by 1 commands
+Empty Hand
+Ori : [a] 
+Scr : [a] 
+You Won by 1 commands
+Left End Already
+Ori : [a] 
+Scr : [a] 
+You Won by 1 commands
+Right End Already
+Ori : [a] 
+Scr : [a] 
+You Won by 1 commands
+Ori : [a] 
+Scr : : a
+Cannot Cut
+Ori : [a] 
+Scr : : a
+Ori : [a] 
+Scr : : a
+Ori : [a] 
+Scr : [a] 
+You Won by 4 commands
+Ori : [a] 
+Scr : : a
+Ori : [a] 
+Scr : [a] 
+You Won by 2 commands
+Ori :  a  [b] 
+Scr :  a  [b] 
+You Won by 1 commands
+Ori :  a  [b] 
+Scr : [b]  a  
+Empty Hand
+Ori :  a  [b] 
+Scr : [b]  a  
+Empty Hand
+Ori :  a  [b] 
+Scr : [b]  a  
+Left End Already
+Ori :  a  [b] 
+Scr : [b]  a  
+Ori :  a  [b] 
+Scr :  b  [a] 
+Ori :  a  [b] 
+Scr : [b] : a
+Ori :  a  [b] 
+Scr : [b] : a
+Ori :  a  [b] 
+Scr : [a]  b  
+You Won by 8 commands
+Ori :  a  [b] 
+Scr :  b  [a] 
+Ori :  a  [b] 
+Scr : [b]  a  
+Ori :  a  [b] 
+Scr : [a] : b
+Ori :  a  [b] 
+Scr :  a  [b] 
+You Won by 4 commands
+Ori :  a   b  [c] 
+Scr :  a   b   c  [d] 
+Ori :  a   b   c   d   e  [f] 
+Scr :  a   b   c   d  [e] 
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  a   b   c   d   e   f  [g] 
+You Won by 3 commands
+Ori :  a   b   c   d   e   f  [g] 
+Scr : [g]  f   e   d   c   b   a  
+Ori :  a   b   c   d   e   f  [g] 
+Scr : [f]  e   d   c   b   a  : g
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  f  [e]  d   c   b   a  : g
+Cannot Cut
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  f  [e]  d   c   b   a  : g
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  f   e   d   c   b  [a] : g
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  f   e   d   c   b   a  [g] 
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  f   e   d   c   b  [a]  g  
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  f   e   d   c  [b]  a   g  
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  f   e   d  [c]  b   a   g  
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  f   e   d  [b]  a   g  : c
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  f   e  [d]  b   a   g  : c
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  f  [e]  d   b   a   g  : c
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  f  [c]  e   d   b   a   g  
+Ori :  a   b   c   d   e   f  [g] 
+Scr : [f]  c   e   d   b   a   g  
+Ori :  a   b   c   d   e   f  [g] 
+Scr : [c]  e   d   b   a   g  : f
+Left End Already
+Ori :  a   b   c   d   e   f  [g] 
+Scr : [c]  e   d   b   a   g  : f
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  c   e   d   b   a  [g] : f
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  c   e   d   b   a  [f]  g  
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  c   e   d   b   a   f  [g] 
+Right End Already
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  c   e   d   b   a   f  [g] 
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  c   e   d   b   a  [f] : g
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  c   e   d   b   a  [f] : g
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  c   e   d   b   a   f  [g] 
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  c   e   d   b   a  [f]  g  
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  c   e   d   b  [a]  f   g  
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  c   e   d   b  [f]  g  : a
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  c   e   d   b   f  [g] : a
+Ori :  a   b   c   d   e   f  [g] 
+Scr : [g]  f   b   d   e   c  : a
+Ori :  a   b   c   d   e   f  [g] 
+Scr : [a]  g   f   b   d   e   c  
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  a  [g]  f   b   d   e   c  
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  a  [f]  b   d   e   c  : g
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  a   f   b   d   e  [c] : g
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  a   f   b   d   e   c  [g] 
+Ori :  a   b   c   d   e   f  [g] 
+Scr : [g]  c   e   d   b   f   a  
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  g   c   e   d   b   f  [a] 
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  g   c   e   d   b  [f]  a  
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  a  [f]  b   d   e   c   g  
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  a  [b]  d   e   c   g  : f
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  a   b   d   e   c  [g] : f
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  a   b   d   e   c  [f]  g  
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  a   b   d   e  [c]  f   g  
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  a   b   d   e  [f]  g  : c
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  a   b   d  [e]  f   g  : c
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  a   b  [d]  e   f   g  : c
+Ori :  a   b   c   d   e   f  [g] 
+Scr :  a   b  [c]  d   e   f   g  
+You Won by 45 commands
