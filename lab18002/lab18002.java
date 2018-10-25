@@ -26,6 +26,9 @@ class LabTest {
 		if (m == 0 || m == n) {
 			return 1;
 	}
+		else if (m < 0 || n < m){
+			return 0;
+	}		
 		else {
 				return Combi(n-1, m-1) + Combi(n-1, m);
 	}
